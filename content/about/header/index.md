@@ -7,5 +7,5 @@ headline: |
 ---
 
 <!-- this is a subheadline -->
-Nuestro proceso para enseñar
+Algo sobre MetaDocencia en una caja
 
