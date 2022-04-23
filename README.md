@@ -65,3 +65,24 @@ Primer paquete de MetaDocencia en una Caja
   * Vivir como estudiante la experiencia docente
 #### Seguimiento a largo plazo
   * Mail con encuesta de impacto
+
+
+## Recursos Visuales.
+
+Photo by <a href="https://unsplash.com/@daniela_curly?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Daniela</a> on <a href="https://unsplash.com/?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
+
+Photo by <a href="https://unsplash.com/@terras?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Terra Slaybaugh</a> on <a href="https://unsplash.com/?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
+  
+Photo by <a href="https://unsplash.com/@letstakeapicture?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Martina De Marchena</a> on <a href="https://unsplash.com/?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
+
+Photo by <a href="https://unsplash.com/@jentheodore?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Jen Theodore</a> on <a href="https://unsplash.com/?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
+
+Photo by <a href="https://unsplash.com/@berkinuregen?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Berkin Üregen</a> on <a href="https://unsplash.com/?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
+
+Photo by <a href="https://unsplash.com/@joshhild?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Josh Hild</a> on <a href="https://unsplash.com/?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
+
+Photo by <a href="https://unsplash.com/@izgubljenausvemiru?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Tijana Drndarski</a> on <a href="https://unsplash.com/?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
+
+Photo by <a href="https://unsplash.com/@rioryan?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Ryan</a> on <a href="https://unsplash.com/?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
+  
+  
