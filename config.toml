@@ -123,11 +123,11 @@ enableEmoji = true
     title = "Capítulos"
     url = "/capitulos/"
     weight = 2
-  [[menu.header]]
-    name = "Plantillas"
-    title = "Plantillas"
-    url = "/plantillas/"
-    weight = 3
+#  [[menu.header]]
+#    name = "Plantillas"
+#    title = "Plantillas"
+#    url = "/plantillas/"
+#    weight = 3
 
 
   # Configure footer  
