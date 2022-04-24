@@ -2,10 +2,10 @@
 cascade:
   headless: true
 description: |
-  A website template for Hugo developed by RStudio & Formspree and available for free.
+  MetaDocencia en una caja.
 show_header: true
 sidebar_left: false
-title: About
+title: Introducción
 ---
 
 ** index doesn't contain a body, just front matter above.
