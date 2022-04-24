@@ -48,7 +48,7 @@ enableEmoji = true
   # use a built-in color theme
   # one of: forest / grayscale / peach / plum /
   #         poppy / sky / violet / water 
-  theme = "sky"
+  theme = "peach"
   
   # or, leave theme empty & make your own palette
   # see docs at https://hugo-apero.netlify.app/blog/color-themes/
@@ -73,7 +73,7 @@ enableEmoji = true
     use_utterances = true
     repo_name = "MetaDocencia/MetaDocenciaEnUnaCajaPaquete1"
     issue_term = "pathname" # url, pathname, or title
-    theme = "boxy-light"
+    theme = "peach"
     label = "comments :crystal_ball:"
 
   # Configuration of math rendering
@@ -114,7 +114,7 @@ enableEmoji = true
 [menu]
   # Configure header 
   [[menu.header]]
-    name = "Sobre MetaDocencia en una caja"
+    name = "Introducción"
     title = "Sobre MetaDocencia en una caja"
     url = "/about/"
     weight = 1
