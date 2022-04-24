@@ -1,8 +1,8 @@
 baseURL = "/"
 theme = "hugo-apero"
 languageCode = "en"
-title = "Hugo Apéro"
-author = "Alison Hill"
+title = "MetaDocencia en una Caja - Paquete 1"
+author = "Yanina Bellini Saibene, Nicolas Palopoli, Romina Pendino..."
 copyright = "" # set to override the auto generated copyright using org info and now year
 googleAnalytics = ""
 disqusShortname = "" # see params.utterances to use utterances instead of Disqus
@@ -28,9 +28,9 @@ enableEmoji = true
     style = "github"
     
 [params]
-  orgName = "RStudio"
-  orgLocal = "Anywhere"
-  description = "A modern, beautiful, and easily configurable blog theme for Hugo."
+  orgName = "MetaDocencia"
+  orgLocal = ""
+  description = "MetaDocencia en una caja. Paquete uno.  Como es nuestro proceso para enseñar."
   favicon = "/img/favicon.ico"
   logo = "/img/blogophonic-mark-dark.png"
   mainSections = ["blog", "project", "talk"]
@@ -41,9 +41,9 @@ enableEmoji = true
   socialInFooter = true
   # Default image for social sharing and search engines. 
   # Place image file in `static` folder and specify image name here.
-  sharing_image = "/img/papillons.jpg"
+  sharing_image = "/img/manzana_verde_en_caja.jpg"
   # Twitter username (without @). Used when a visitor shares your site on Twitter.
-  twitter = "apreshill"
+  twitter = "metadocencia"
   
   # use a built-in color theme
   # one of: forest / grayscale / peach / plum /
@@ -71,7 +71,7 @@ enableEmoji = true
   # Configuration of https://utteranc.es/ for comments
   [params.utterances]
     use_utterances = true
-    repo_name = "apreshill/apero"
+    repo_name = "MetaDocencia/MetaDocenciaEnUnaCajaPaquete1"
     issue_term = "pathname" # url, pathname, or title
     theme = "boxy-light"
     label = "comments :crystal_ball:"
@@ -88,27 +88,19 @@ enableEmoji = true
   [[params.social]]
       icon      = "github" # icon name without the 'fa-'
       icon_pack = "fab"
-      url       = "https://github.com/apreshill/apero"
+      url       = "https://github.com/MetaDocencia"
   [[params.social]]
       icon      = "facebook-square" # icon name without the 'fa-'
       icon_pack = "fab"
-      url       = "https://www.facebook.com/hashtag/ap%C3%A9ro"
+      url       = "https://www.facebook.com/MetaDocencia"
   [[params.social]]
       icon      = "instagram" # icon name without the 'fa-'
       icon_pack = "fab"
-      url       = "https://www.instagram.com/explore/tags/apero/"
+      url       = "https://www.instagram.com/MetaDocencia"
   [[params.social]]
       icon      = "twitter" # icon name without the 'fa-'
       icon_pack = "fab"
-      url       = "https://twitter.com/hashtag/apéro"
-  [[params.social]]
-      icon      = "impactstory" # icon name without the 'fa-'
-      icon_pack = "ai"
-      url       = "https://impactstory.org/u/0000-0002-8082-1890"
-  [[params.social]]
-      icon      = "orcid" # icon name without the 'fa-'
-      icon_pack = "ai"
-      url       = "http://orcid.org/0000-0002-8082-1890"
+      url       = "https://twitter.com/MetaDocencia"
   [[params.social]]
       icon      = "rss" # icon name without the 'fa-'
       icon_pack = "fas"
@@ -122,52 +114,43 @@ enableEmoji = true
 [menu]
   # Configure header 
   [[menu.header]]
-    name = "About"
-    title = "About Blogophonic"
+    name = "Sobre MetaDocencia en una caja"
+    title = "Sobre MetaDocencia en una caja"
     url = "/about/"
     weight = 1
   [[menu.header]]
-    name = "Blog"
-    title = "Blog"
-    url = "/blog/"
+    name = "Capítulos"
+    title = "Capítulos"
+    url = "/capitulos/"
     weight = 2
   [[menu.header]]
-    name = "Projects"
-    title = "Project Portfolio"
-    url = "/project/"
+    name = "Plantillas"
+    title = "Plantillas"
+    url = "/plantillas/"
     weight = 3
-  [[menu.header]]
-    name = "Talks"
-    title = "Talks"
-    url = "/talk/"
-    weight = 4
-  [[menu.header]]
-    name = "A collection"
-    title = "A collection"
-    url = "/collection/"
-    weight = 5
-  [[menu.header]]
-    name = "Elements"
-    title = "Element Page"
-    url = "/elements/"
-    weight = 6
-    
+
+
   # Configure footer  
   [[menu.footer]]
-    name = "License"
-    title = "License"
+    name = "Licencia"
+    title = "Licencia"
     url = "/license/"
     weight = 1
   [[menu.footer]]
-    name = "Contact"
-    title = "Contact form"
-    url = "/contact/"
+    name = "Contacto"
+    title = "Formulario de contacto"
+    url = "/contacto/"
     weight = 2
   [[menu.footer]]
-    name = "Contributors"
-    title = "Contributors"
-    url = "/contributors/"
+    name = "Autores"
+    title = "Autores"
+    url = "/autores/"
     weight = 3
+  [[menu.footer]]
+    name = "Atribuciones"
+    title = "Atribuciones"
+    url = "/atribuciones/"
+    weight = 4  
 
 # see https://gohugo.io/about/hugo-and-gdpr/    
 [privacy]
