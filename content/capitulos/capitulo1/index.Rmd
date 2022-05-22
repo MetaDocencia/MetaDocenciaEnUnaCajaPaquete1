@@ -1,9 +1,15 @@
 ---
-title: "Capitulo 1"
+title: "Capitulo 1 -Nuestro proceso para enseñar"
 subtitle: ""
 weight: 1
 excerpt: ""
 draft: false
 show_post_date: false
 ---
+
+Este proceso se inicia una vez que ya se ha diseñado un curso y está listo para ofrecerlo a la comunidad.  Este paquete presenta el detalle de cada etapa y paso de este proceso, las razones por las cuales hacemos cada tarea y la forma en que las ejecutamos y las plantillas editables de cada elemento para que puedas usarlo.
+
+
+
+
 
