@@ -104,7 +104,7 @@ enableEmoji = true
   [[params.social]]
       icon      = "rss" # icon name without the 'fa-'
       icon_pack = "fas"
-      url       = "/blog/index.xml"
+      url       = "/capitulos/index.xml"
 
 [taxonomies]
   category = "categories"

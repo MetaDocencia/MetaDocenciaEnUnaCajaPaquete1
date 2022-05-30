@@ -3,7 +3,7 @@ title: "Capítulo 2"
 # list or single layouts are possible
 layout: single-series # list, list-sidebar, single-series
 weight: 2
-subtitle: "subtitulo"
+subtitle: ""
 description: |
   descripción
 cascade:
