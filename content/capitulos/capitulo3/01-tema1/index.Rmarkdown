@@ -1,8 +1,21 @@
 ---
-title: "Capitulo 3 - Tema 1"
+title: "Capitulo 3 - Tipos de Cursos"
 weight: 1
 show_post_date: false
 publishDate: 2022-02-19
 excerpt: ""
 ---
+
+## Tipos de Curso
+
+Hasta el momento nuestros cursos son todos on-line. Hemos realizado los cursos de tres maneras:
+
+- *Organizados solo por MetaDocencia:* las personas se preinscriben completando un formulario e indicando a que curso se quieren inscribir.  Cuando tenemos la cantidad necesaria de inscriptos, se organiza una edición del curso y se invita a todas las personas inscriptas. En general se necesita invitar al doble de personas para tener una asistencia de la cantidad adecuada para el curso.
+
+- *Organizados con otres:* estos cursos se realizan en conjunto con otras comunidades o en el marco de otros eventos de mayor envergadura como conferencias.  Los cursos se ofrecen como una edición especial y son para los miembros de las comunidades o los asistentes a las conferencias.  Hemos organizados eventos con [R-Ladies](), [RenBaires](), [LatinR](), [Women in Bioinformatics and Data Science Latam](), por ejemplo.
+
+- *Cursos A la carta:* estos cursos son solicitados por diferentes instituciones, organizaciones o comunidades. Los asistentes pertenecen a estas organizaciones y parte del contenido se puede adaptar a sus necesidades.  Podes leer mas sobre estas experiencias en estos blog post:
+ * [INTA CR La Pampa - San Luis]()
+ * [Red INTA Joven]()
+ * [Bolsa de Comercio de Rosario]()
 
