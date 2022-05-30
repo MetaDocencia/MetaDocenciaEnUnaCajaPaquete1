@@ -6,7 +6,7 @@ use_featured: false # if false, use most recent by date
 number_categories: 3 # set to zero to exclude
 show_intro: true
 intro: |
-  El capítulo 1 del paquete presenta ..
+  El capítulo 1 del paquete presenta una introducción general al proceso de enseñanza y el mapa conceptual correspondiente.
   
   En el capítulo 2 veremos xxx
   

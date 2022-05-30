@@ -7,9 +7,21 @@ draft: false
 show_post_date: false
 ---
 
-Este proceso se inicia una vez que ya se ha diseñado un curso y está listo para ofrecerlo a la comunidad.  Este paquete presenta el detalle de cada etapa y paso de este proceso, las razones por las cuales hacemos cada tarea y la forma en que las ejecutamos y las plantillas editables de cada elemento para que puedas usarlo.
+Este proceso se inicia una vez que ya se ha diseñado un curso y está listo para ofrecerlo a la comunidad.  En nuestra web se listan los [cursos que tenemos disponibles](https://www.metadocencia.org/cursos/).
 
 
+Este paquete presenta el detalle de cada etapa y paso de este proceso, las razones por las cuales hacemos cada tarea y la forma en que las ejecutamos y las plantillas editables de cada elemento para que puedas usarlo. 
 
+En el mapa conceptual se presenta un esquema de nuestro proceso para enseñar.
 
+{{< figure src="/img/proceso_dar_cursos.jpg"  alt="Mapa conceptual explicado en el texto que sigue a la figura" >}}
 
+Cuando un curso está diseñado y listo para enseñarse ocurren diferentes sub-procesos.  Uno de ellos está relacionado con la difusión, hay que armar el sitio web del curso (dentro del sitio de MetaDocencia) y hay que anunciarlo por medio de redes sociales, lista de emails y espacios de Slacks. El [Capítulo 2](/capitulos/capitulo2/) se encarga de presentar este tema. 
+
+Con la difusión realizada hay que estar listos para la pre-inscripción, la forma de inscribirse y de generar una edición de un curso cambia según el tipo de curso, por ejemplo, el proceso cambiará si el curso es organizado con otra comunidad, si es un curso en una conferencia o es un curso a demanda.  
+
+Cuando una persona demuestra interés en realizar alguno de los cursos el equipo de accesibilidad chequea si cada persona puede ser acomodada y el equipo de infraestructura genera todo lo necesario para poder llevarlo adelante como zoom, calendly, lista de inscriptos, informe de resumen de los inscriptos, carpeta del curso y documento compartido. En el [Capítulo 3]() te damos todos los detalles. 
+
+Además se conforma el equipo docente, como no enseñamos solos, siempre son al menos dos personas.  Este equipo es el encargado de dictar el curso y durante el curso compartes y aplican el código de conducta, usan el documento compartido y comparten la encuesta de feedback para que los estudiantes completen y nos ayuden a mejorar el curso.  En el [capítulo 4]() detallamos el proceso de enseñar el curso y como aprovechar el feedback.
+
+Finalmente en el [capítulo 5]() listamos todas las plantillas que usamos y que te pueden ser útiles.-
