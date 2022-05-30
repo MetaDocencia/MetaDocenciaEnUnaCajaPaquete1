@@ -10,6 +10,12 @@ show_post_date: false
 Este proceso se inicia una vez que ya se ha diseñado un curso y está listo para ofrecerlo a la comunidad.  Este paquete presenta el detalle de cada etapa y paso de este proceso, las razones por las cuales hacemos cada tarea y la forma en que las ejecutamos y las plantillas editables de cada elemento para que puedas usarlo.
 
 
+En el mapa conceptual se presenta un esquema de nuestro proceso para enseñar.
 
+{{< figure src="/img/proceso_dar_cursos.jpg"  alt="Mapa conceptual explicado en el texto que sigue a la figura" >}}
 
+Cuando un curso está diseñado y listo para enseñarse ocurren diferentes sub-procesos.  Uno de ellos está relacionado con la difusión, hay que armar el sitio web del curso (dentro del sitio de MetaDocencia) y hay que anunciarlo por medio de redes sociales, lista de emails y espacios de Slacks.  
 
+Con la difusión realizada hay que estar listos para la pre-inscripción.  Cuando una persona demuestra interés en realizar alguno de los cursos el equipo de accesibilidad chequea si cada persona puede ser acomodada y el equipo de infraestructura genera todo lo necesario para poder llevarlo adelante como zoom, calendly, lista de inscriptos, informe de resumen de los inscriptos, carpeta del curso y documento compartido.
+
+Además se conforma el equipo docente, como no enseñamos solos, siempre son al menos dos personas.  Este equipo es el encargado de dictar el curso y durante el curso compartes y aplican el código de conducta, usan el documento compartido y comparten la encuesta de feedback para que los estudiantes completen y nos ayuden a mejorar el curso.
