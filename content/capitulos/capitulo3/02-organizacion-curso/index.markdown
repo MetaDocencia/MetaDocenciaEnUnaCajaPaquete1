@@ -47,11 +47,15 @@ Nos juntamos media hora antes para conocer detalles del grupo que tomará el cur
 
 Contamos con un grupo de _whatsapp_ como medio alternativo de comunicación por cualquier incidente que pueda ocurrir.  Antes de iniciar un curso las personas responsables saludan en este grupo de whatsapp y avisan que se van a conectar y que van a estar enseñando hoy, detallando también el curso.
 
-Haciendo click en el link a zoom de la invitación se inicia la reunión. La primera persona que llega reclama el rol de host y activa la sala de espera.Todas las personas cambian su nombre en zoom al formato rol y nombre. Ejemplo: 0Ayudante Juana.  Esto ayuda a las personas a identificar a las personas de MetaDocencia y a 
+Haciendo click en el link a zoom de la invitación se inicia la reunión. La primera persona que llega reclama el rol de host y activa la sala de espera.
 
-Cuando llega el resto del equipo, es el momento para acordar las tareas que asumirá cada una/o, por ejemplo, alguien puede encargarse del ingreso de estudiantes y compartir los links mientras la otra persona da apoyo a las actividades y contesta inquietudes por mensaje privado.  Aqui se debe acordar quién creará las breakout rooms. Quien esté a cargo, necesita tener _rol de hospedador en zoom_, y este, luego, poner a la/el co-docente como co-anfitrión.
+Todas las personas cambian su nombre en zoom al formato rol y nombre. Ejemplo: _0Ayudante Juana_.  Esto ayuda a las personas a identificar a las personas de MetaDocencia y a 
 
-Usamos una [aplicación Shiny](), desarrollada por Elio Campitelli, que nos da un resumen de las características más importantes del grupo al que enseñaremos, porque sabemos que es importante conocer a tu audiencia.  
+Cuando llega el resto del equipo, es el momento para acordar las tareas que asumirá cada una/o, por ejemplo, alguien puede encargarse del ingreso de estudiantes y compartir los links mientras la otra persona da apoyo a las actividades y contesta inquietudes por mensaje privado.
+
+Aqui se debe acordar quién creará las breakout rooms. Quien esté a cargo, necesita tener _rol de hospedador en zoom_, y este, luego, poner a la/el co-docente como co-anfitrión.
+
+Usamos una [aplicación Shiny](https://eliocamp.shinyapps.io/reporte-pre-curso/), desarrollada por Elio Campitelli, que nos da un resumen de las características más importantes del grupo al que enseñaremos, porque sabemos que es importante conocer a tu audiencia.  
 
 <agregar un ejemplo del informe el curso>
 
