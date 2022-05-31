@@ -1,5 +1,5 @@
 ---
-title: "Capitulo 4"
+title: "Capitulo 4 - Dictado del Curso"
 # list or single layouts are possible
 layout: single-series # list, list-sidebar, single-series
 weight: 4
