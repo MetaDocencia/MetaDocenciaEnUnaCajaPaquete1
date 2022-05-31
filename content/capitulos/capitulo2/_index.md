@@ -14,22 +14,8 @@ cascade:
 
 ## Objetivos de aprendizaje
 
+* Conocer y entender la estructura de una web para informar sobre el curso.
+* Conocer y entender la estrategia de difusión previa del curso
+* Conocer herramientas tecnológicas para llevar adelante estas tareas
+* Contar con ejemplos de plantillas para realizar estas tareas
 
-## Temas
-
-<div class = "activity">
-
-
-</div>
-
-<div class = "activity">
-
-
-</div>
-
-
-
-<div class = "activity">
-
-
-</div>
