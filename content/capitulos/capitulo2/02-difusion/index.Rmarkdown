@@ -45,11 +45,11 @@ Mucha gente no vive en linea pero utiliza el correo electrónico.  MetaDocencia 
 
 * **GitHub**: esta plataforma permite compartir todo el contenido en sus sitema de control de versiones y conectada a una plataforma como Zenodo habilita a conseguir un DOI (indentificador único) que hace nuestros materiales citables
 
-> Ver este blog post para más detalle: 
+> Ver este blog post [Compartir material educativo y mantener la autoría](https://www.metadocencia.org/post/compartirmaterialdoi/) para más detalles. 
 
 El inconveniente más grande de GitHub es la curva de aprendizaje necesaria para utilizarlo.
 
-> Ver este curso para aprender las nociones básicas.
+> Ver este curso de [Introducción a Git](https://yabellini.netlify.app/courses/git_rstudio_course/) para aprender las nociones básicas de su uso.
 
 
 En cada lugar y para cada comunidad pueden funcionar diferentes plataformas.  Hay que tener en cuenta que cada espacio que se abra implica el esfuerzo de mantenerlo activo con publicaciones y contestado a las personas que interactuen.
