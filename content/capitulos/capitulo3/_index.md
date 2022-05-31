@@ -16,4 +16,4 @@ cascade:
 
 * Conocer diferentes tipos de modalidades de organización de cursos e identificar sus ventajas y desventajas.
 * Identificar herramientas de software (alterativas pagas y gratuitas) que pueden ayudar con la organización de los cursos.
-* Determinar el equipo de personas necesarios para dictar un curso y sus roles.
+
