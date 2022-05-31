@@ -6,3 +6,8 @@ publishDate: 2022-02-19
 excerpt: ""
 ---
 
+Quien tenga el rol de dar la bienvenida a los asistentes verifica que los asistentes coinciden con quienes aparecen en el listado. En caso de que aparezca con otro nombre en zoom, se le solicita que lo cambie de ser posible.
+
+Quien tenga el rol de ayudante deberá generar el link corto del documento compartido 
+
+> Utilizamos la plataforma https://tiny.cc/ para hacer esta tarea
