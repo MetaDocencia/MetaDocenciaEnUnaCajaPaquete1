@@ -19,7 +19,7 @@ cascade:
 
 El formulario de registro o demostración de interés te permite recabar información sobre tus estudiantes, siempre es conveniente conocer a tu audiencia.
 
-En este ehjemplo recabamos información sobre
+En este ejemplo recabamos información sobre
 
 * Pronombres
 * Geografía y lenguaje
@@ -29,6 +29,8 @@ En este ehjemplo recabamos información sobre
 * Talleres a los que se inscribe
 
 Aquí puedes [acceder a una versión editable](https://docs.google.com/forms/d/15M8mqLG_qj6FSvqqzc4l0bnwJ1Q0JNqLSSLnMtYbxOs/edit) que te recomendamos duplicar para poder trabajarla sin problemas para tus propios objetivos.
+
+En el capítulo 2 tienes más detalle sobre este formulario.
 
 ### Formulario de Feedback
 

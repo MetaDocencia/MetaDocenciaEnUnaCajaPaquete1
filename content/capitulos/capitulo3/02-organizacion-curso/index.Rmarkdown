@@ -22,12 +22,37 @@ Cada edición es una excelente opción para que quien quiere tener algún rolo d
 
 
 ## Agendar el curso 
-Calendly
-Zoom
-Mail a estudiantes
+
+El calendario de cursos se arma de acuerdo a la cantidad de inscriptos que tenemos en cada curso. Cuando se completa un cupo se proponen fechas y horarios de acuerdo a la disponibilidad de los docentes y se envía un email con todas las indicaciones para que los estudisntes puedan sumarse al curso online. 
+
+Las herramientas utilizadas para este proceso son google sheets, calendly y zoom.
+
+A las personas encargadas del curso les llegará un mail con los datos de la reunión y se agregará a sus calendarios.  En ese mail y en el evento del calendario se encuentra el link a zoom que tiene embebida la contraseña.
+
+#### Ejemplo de mail de contacto
+
+<agregar el texto del mail de contacto>
+
+El equipo de infraestructura también se ocupó de crear una carpeta en nuestro google drive para el curso con un nombre que sigue este formato:
+
+AñoMesDiaHora
+
+y que contiene el listado de asistentes (para tomar la asistencia) y el [documento compartido](https://docs.google.com/document/d/1sPvRezzh3y1kJh171mjhbe5krmIi_QNoOs1LPOBp2bE/edit) que se usa en el curso.
+
+En el capítulo 5 hay más detalles sobre documentos compartidos.
+
+### Preparación pre-curso
+
+Nos juntamos media hora antes para conocer detalles del grupo que tomará el curso y coordinar roles. Sugerimos tener a mano tu mate, café o agua para acompañar la jornada.
+
+Contamos con un grupo de _whatsapp_ como medio alternativo de comunicación por cualquier incidente que pueda ocurrir.  Antes de iniciar un curso las personas responsables saludan en este grupo de whatsapp y avisan que se van a conectar y que van a estar enseñando hoy, detallando también el curso.
 
 
-## Conocé a tu audiencia
+
+
+
+#### Conocé a tu audiencia
+
 Reporte sobre estudiantes
 Detalles a considerar especialmente
 Repartir roles en clase
